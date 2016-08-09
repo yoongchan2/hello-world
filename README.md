@@ -1,2 +1,4 @@
 # hello-world
-hello world, how are you?
+People: hello world, how are you?
+World: Hello people, I'm dying.
+People: Who cares?
